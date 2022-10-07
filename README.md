@@ -1,0 +1,2 @@
+# SampleFaceTracking
+ARKitのFaceTrackingを使って両目の座標を取ってprintするだけ。
